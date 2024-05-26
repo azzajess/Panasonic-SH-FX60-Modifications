@@ -1,6 +1,22 @@
 # Panasonic-SH-FX60-Modifications
 Modifications for Panasonic SH-FX60 Wireless Upgrade Kit
-
+Uses a TDA8920B Class D Amp
+```
+Output Power Stereo & ±27 V (I think the powersupply is supplying 30V on this unit?)
+          
+  3 Ω
+    THD = 0.5 % - 87  W
+    THD = 10 %  - 110 W
+  4 Ω
+    THD = 0.5 % - 69  W
+    THD = 10 %  - 86  W
+  6 Ω
+    THD = 0.5 % - 48  W
+    THD = 10 %  - 60  W
+  8 Ω
+    THD = 0.5 % - 36  W
+    THD = 10 %  - 45  W
+```
 
 
 ## [Modification 1 - Convert unit to support RCA/3.5mm Input ](https://github.com/azzajess/Panasonic-SH-FX60-Modifications/blob/main/Mod1-Stereo-Input.md)
